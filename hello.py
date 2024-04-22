@@ -1,7 +1,2 @@
-print("hello world")
-
-name = 'Sayeed Shorif'
-
-print(f'hello {name}')
-
-# testing .....
+name = input("Enter your name : ")
+print(f"Hello {name}! ")
