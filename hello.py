@@ -1,6 +1,7 @@
 print("hello world")
 
-name = 'Sayeed shorifff'
+name = 'Sayeed Shorif'
+
 print(f'hello {name}')
 
 # testing .....
